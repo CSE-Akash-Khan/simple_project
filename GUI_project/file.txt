@@ -1,0 +1,6 @@
+
+akash 20 akash@gmail Male Student Yes
+khan 20 khan@gmail.com Male Student Yes
+naim 20 naim@gmail.com Male Student Yes
+rana 21 rana@gmail.com Male Student Yes
+hasib 15 hasib@gmail.com Male Student Yes
